@@ -1,0 +1,7 @@
+C:\Users\yirbe\source\repos\Console-Machine-Rentat-System\bin\Debug\Console-Machine-Rentat-System.exe.config
+C:\Users\yirbe\source\repos\Console-Machine-Rentat-System\bin\Debug\Console-Machine-Rentat-System.exe
+C:\Users\yirbe\source\repos\Console-Machine-Rentat-System\bin\Debug\Console-Machine-Rentat-System.pdb
+C:\Users\yirbe\source\repos\Console-Machine-Rentat-System\obj\Debug\Console-Machine-Rentat-System.csprojAssemblyReference.cache
+C:\Users\yirbe\source\repos\Console-Machine-Rentat-System\obj\Debug\Console-Machine-Rentat-System.csproj.CoreCompileInputs.cache
+C:\Users\yirbe\source\repos\Console-Machine-Rentat-System\obj\Debug\Console-Machine-Rentat-System.exe
+C:\Users\yirbe\source\repos\Console-Machine-Rentat-System\obj\Debug\Console-Machine-Rentat-System.pdb
